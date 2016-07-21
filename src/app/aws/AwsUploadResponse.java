@@ -5,7 +5,6 @@
 package app.aws;
 
 import com.google.gson.Gson;
-
 /**
  *
  * @author Owner
